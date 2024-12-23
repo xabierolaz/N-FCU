@@ -15,3 +15,6 @@
     <td><img src="PID_GIFS/8ms.gif" alt="GIF 8" width="200"></td>
   </tr>
 </table>
+
+# VIDEOS ENTRENAMIENTO N-FCU
+https://drive.google.com/drive/folders/11DfmCqjhGoYMkDa58pc93ptRO7s79FFs?usp=sharing
